@@ -1,16 +1,16 @@
 {
-    "Books": [
-        {
+    "Books": [{
             "id": 10000,
+            "isUsedbooks": 0,
             "name": "Algorithms",
             "price": 31.60,
             "freight": 5,
             "sales_volume": 50,
             "author": "Sanjoy Dasgupta,‎ Christos Papadimitriou,‎ Umesh Vazirani,‎ 王沛 (译者),‎ 唐扬斌 (译者),‎ 刘齐军 (译者)",
             "seller": 1,
-            "tags": [ 2 ],
+            "tags": [2],
             "url": "http://item.jd.com/10079570.html",
-            "picture": "http:////img10.360buyimg.com/n1/jfs/t3910/74/286809770/130084/6c02e960/584778f9N4cb292f8.jpg",
+            "picture": "http://img10.360buyimg.com/n1/jfs/t3910/74/286809770/130084/6c02e960/584778f9N4cb292f8.jpg",
             "detail": {
                 "publisher": "清华大学出版社",
                 "pub_date": "2008-07-01",
@@ -25,8 +25,7 @@
                 "credit": 4.5,
                 "good": 4.7
             },
-            "comments": [
-                {
+            "comments": [{
                     "user": "Jay",
                     "comment": "Very good!!!"
                 },
@@ -38,13 +37,14 @@
         },
         {
             "id": 10001,
+            "isUsedbooks": 0,
             "name": "Algorithms",
             "price": 34.8,
             "freight": 0,
             "sales_volume": 50,
             "author": "Sanjoy Dasgupta,‎ Christos Papadimitriou,‎ Umesh Vazirani,‎ 王沛 (译者),‎ 唐扬斌 (译者),‎ 刘齐军 (译者)",
             "seller": 3,
-            "tags": [ 0 ],
+            "tags": [0],
             "url": "https://www.amazon.cn/dp/B001CZJEO0/",
             "picture": "https://images-cn.ssl-images-amazon.com/images/I/51Fp4vXuBkL._SX410_BO1,204,203,200_.jpg",
             "detail": {
@@ -61,8 +61,7 @@
                 "credit": 4.5,
                 "good": 4.7
             },
-            "comments": [
-                {
+            "comments": [{
                     "user": "匿名用户",
                     "comment": "内容很全面，如果你是个爱动笔算的人，这本书很适合你，算法精辟，但是推倒过程太简明了，笔算了半天才能搞明白，既有基本思想又有具体算法，但是本书更偏重前者，如果要详细了解某个算法，还是看算法导论得了。不论是刚接触算法还是已经有所研究，我认为这本书都值得珍藏。"
                 },
@@ -74,19 +73,20 @@
         },
         {
             "id": 10002,
+            "isUsedbooks": 1,
             "name": "C++ Primer Plus 第6版中文第六版",
             "price": 69.28,
             "freight": 0,
             "sales_volume": 199,
             "author": "(美)普拉达",
             "seller": 2,
-            "tags": [ 0, 1, 2 ],
+            "tags": [0, 1, 2],
             "url": "https://detail.tmall.com/item.htm?id=45578599106",
             "picture": "https://img.alicdn.com/bao/uploaded/i3/TB1rHoqSXXXXXcsXVXXXXXXXXXX_!!0-item_pic.jpg_430x430q90.jpg",
             "detail": {
                 "publisher": "人民邮电出版社",
                 "pub_date": "2012-07-01",
-                "pages": -1,
+                "pages": 936,
                 "language": "中文"
             },
             "information": {
@@ -94,11 +94,10 @@
                 "content": "***章 预备知识\n第2章 开始学习C++\n第3章 处理数据\n第4章 复合类型\n第5章 循环和关系表达式\n第6章 分支语句和逻辑运算符\n第7章 函数——C++的编程模块\n第8章 函数探幽\n第9章 内存模型和名称空间\n***0章 对象和类"
             },
             "scores": {
-                "credit": 4.5,
+                "credit": 3.5,
                 "good": 4.7
             },
-            "comments": [
-                {
+            "comments": [{
                     "user": "j***9（匿名）",
                     "comment": "中午到手了，书是正版，纸质很好，包装完好无损，内容很丰富，讲解的很全面，第一本安卓开发书，一定要仔细看完，"
                 },
@@ -110,19 +109,20 @@
         },
         {
             "id": 10003,
+            "isUsedbooks": 0,
             "name": "第一行代码 Android 第2版",
             "price": 57.80,
             "freight": 0,
             "sales_volume": 601,
             "author": "郭霖",
             "seller": 2,
-            "tags": [ 0, 1, 2 ],
+            "tags": [0, 1, 2],
             "url": "https://detail.tmall.com/item.htm?spm=a230r.1.14.6.52f765c4tkhJDN&id=542469538914",
             "picture": "https://img.alicdn.com/bao/uploaded/i3/2620984798/TB1ODg6aCFRMKJjy0FhXXX.xpXa_!!0-item_pic.jpg_430x430q90.jpg",
             "detail": {
                 "publisher": "人民邮电出版社",
                 "pub_date": "2016-12",
-                "pages": -1,
+                "pages": 570,
                 "language": "中文"
             },
             "information": {
@@ -133,8 +133,7 @@
                 "credit": 4.8,
                 "good": 4.8
             },
-            "comments": [
-                {
+            "comments": [{
                     "user": "j***9（匿名）",
                     "comment": "快递很快，保护的很好，没有破损，如果你没有接触过c++，强烈推荐这本书"
                 },
@@ -146,13 +145,14 @@
         },
         {
             "id": 10004,
+            "isUsedbooks": 0,
             "name": "第一行代码 Android 第2版",
             "price": 57.80,
             "freight": 0,
             "sales_volume": 602,
             "author": "郭霖",
             "seller": 2,
-            "tags": [ 0, 1, 2 ],
+            "tags": [0, 1, 2],
             "url": "https://detail.tmall.com/item.htm?spm=a230r.1.14.6.52f765c4tkhJDN&id=542469538914",
             "picture": "https://img.alicdn.com/bao/uploaded/i3/2620984798/TB1ODg6aCFRMKJjy0FhXXX.xpXa_!!0-item_pic.jpg_430x430q90.jpg",
             "detail": {
@@ -169,14 +169,1700 @@
                 "credit": 4.8,
                 "good": 4.8
             },
-            "comments": [
-                {
+            "comments": [{
                     "user": "j***9（匿名）",
                     "comment": "快递很快，保护的很好，没有破损，如果你没有接触过c++，强烈推荐这本书"
                 },
                 {
                     "user": "苏***1（匿名）",
                     "comment": "书有破损，找客服无人应，服务态度极差。这个价格对上这种服务性价比极低，以后再也不在这家买书了。"
+                }
+            ]
+        },
+        {
+            "id": 10005,
+            "isUsedbooks": 0,
+            "name": "深入理解计算机系统·英文·第三版",
+            "price": 184.00,
+            "freight": 0,
+            "sales_volume": 12324,
+            "author": "Randal E. Bryant，David R. O’Hallaron",
+            "seller": 1,
+            "tags": [0],
+            "url": "http://item.jd.com/12155718.html",
+            "picture": "http://img13.360buyimg.com/n1/jfs/t4273/212/2403268211/302478/44c99d70/58d0cf4eNb5b60410.jpg",
+            "detail": {
+                "publisher": "机械工业出版社",
+                "pub_date": "2017-04-01",
+                "pages": 1047,
+                "language": "English"
+            },
+            "information": {
+                "introduction": "本书是一本将计算机软件和硬件理论结合讲述的经典教材，内容涵盖计算机导论、体系结构和处理器设计等多门课程。本书*大的特点是为程序员描述计算机系统的实现细节，通过描述程序是如何映射到系统上，以及程序是如何执行的，使读者更好地理解程序的行为，找到程序效率低下的原因。和第2版相比，本版内容上*大的变化是，从以IA32和x86-64为基础转变为完全以x86-64为基础。",
+                "content": "1. A Tour of Computer Systems\n 1.1 Information Is Bits + Context\n 1.2 Programs Are Translated by Other Programs into Different Forms\n 1.3 It Pays to Understand How Compilation Systems Work\n "
+            },
+            "scores": {
+                "credit": 4.2,
+                "good": 4.9
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "对这本书的英文版仰慕已久，之前看过这本书的中文版，受益良多，但感觉还不够。作为一个程序猿，这本书可以说是必读的"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "超级棒！！关键是彩印版本！！看起来十分舒适！买了中文版和英文版结合起来一起看！真的超级好！！"
+                }
+            ]
+        },
+        {
+            "id": 10006,
+            "isUsedbooks": 0,
+            "name": "深入理解计算机系统·英文·第三版",
+            "price": 181.60,
+            "freight": 0,
+            "sales_volume": 8,
+            "author": "Randal E. Bryant，David R. O’Hallaron",
+            "seller": 1,
+            "tags": [0, 2],
+            "url": "http://item.jd.com/11605122093.html",
+            "picture": "http://img13.360buyimg.com/n1/jfs/t4327/99/1855070778/114959/aaaa12d7/58c74405N0dd1223e.png",
+            "detail": {
+                "publisher": "机械工业出版社",
+                "pub_date": "2017-04-01",
+                "pages": 1,
+                "language": "English"
+            },
+            "information": {
+                "introduction": "本书是一本将计算机软件和硬件理论结合讲述的经典教材，内容涵盖计算机导论、体系结构和处理器设计等多门课程。本书*大的特点是为程序员描述计算机系统的实现细节，通过描述程序是如何映射到系统上，以及程序是如何执行的，使读者更好地理解程序的行为，找到程序效率低下的原因。和第2版相比，本版内容上*大的变化是，从以IA32和x86-64为基础转变为完全以x86-64为基础。",
+                "content": "1. 计算机系统漫游\n 1.1 信息就是位+上下文\n 1.2 程序被其他程序翻译成不同的格式\n 1.3 了解编译系统如何工作是大有益处的\n "
+            },
+            "scores": {
+                "credit": 4.9,
+                "good": 4.9
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "包装很严实，书是硬皮的，质量很好！！"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "非常经典的计算机著作，从程序员角度剖析计算机运行的原理与过程。大师作品还是英语最正宗。"
+                }
+            ]
+        },
+        {
+            "id": 10007,
+            "isUsedbooks": 0,
+            "name": "深入理解计算机系统·英文·第三版",
+            "price": 190.80,
+            "freight": 0,
+            "sales_volume": 2,
+            "author": "Randal E. Bryant，David R. O’Hallaron",
+            "seller": 1,
+            "tags": [0, 2],
+            "url": "http://item.jd.com/11605129869.html",
+            "picture": "http://img14.360buyimg.com/n1/jfs/t3124/220/8725541447/114959/aaaa12d7/58c743fdNe7ccfb6e.png",
+            "detail": {
+                "publisher": "机械工业出版社",
+                "pub_date": "2017-04-01",
+                "pages": 1,
+                "language": "English"
+            },
+            "information": {
+                "introduction": "本书是一本将计算机软件和硬件理论结合讲述的经典教材，内容涵盖计算机导论、体系结构和处理器设计等多门课程。本书*大的特点是为程序员描述计算机系统的实现细节，通过描述程序是如何映射到系统上，以及程序是如何执行的，使读者更好地理解程序的行为，找到程序效率低下的原因。和第2版相比，本版内容上*大的变化是，从以IA32和x86-64为基础转变为完全以x86-64为基础。",
+                "content": "1. 计算机系统漫游\n 1.1 信息就是位+上下文\n 1.2 程序被其他程序翻译成不同的格式\n 1.3 了解编译系统如何工作是大有益处的\n "
+            },
+            "scores": {
+                "credit": 4.2,
+                "good": 4.5
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "很好，书值得这个价"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "正版，精美！服务好，包装特别牢靠稳妥，我很满意！"
+                }
+            ]
+        },
+        {
+            "id": 10008,
+            "isUsedbooks": 0,
+            "name": "Algorithms",
+            "price": 101.10,
+            "freight": 0,
+            "sales_volume": 1050,
+            "author": "[美] Thomas H.Cormen，[美] Charles E.Leiserson，[美] Ronald L.Rivest，[美] Clifford Stein 著；殷建平，徐云，王刚 等 译",
+            "seller": 1,
+            "tags": [0],
+            "url": "https://item.jd.com/11144230.html",
+            "picture": "https://img10.360buyimg.com/n1/g9/M03/10/0C/rBEHalDFX10IAAAAAAMtdd_bKwEAADM6gOC6NoAAy2N265.jpg",
+            "detail": {
+                "publisher": "清华大学出版社",
+                "pub_date": "2008-07-01",
+                "pages": 345,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "作为一本介绍算法技术和思想的书籍，本书不仅是面各信息学科大学生的优秀教材（或参考书），更是将任何具有初等数学基础的人引入算法应用与研究殿堂的一块引路石。本书循序渐进、深入浅出地展示了算法研究与应用领域中，从模型分析、算法构造到复杂性分析和算法优化的方方面面。涉及内容从古老的算术算法、排序算法、简单算法、线性规划、动态规划、随机算法以及NP复杂理论，甚至是尚未完全显现全貌的量子计算，覆盖了经典、现代和未来算法发展的众多代表性成果。　　《国外经典教材·计算机科学与技术：算法概论》选材新颖，内容丰富，适用于作为计算机学科以及相关学科算法课程的教材和参考书，同时也可作从事算法研究的入门书籍。",
+                "content": "第0章 序言\n 0.1 书籍和算法\n 0.2 从Fibonacci数列开始\n 0.3 大O符号\n 习题"
+            },
+            "scores": {
+                "credit": 4.5,
+                "good": 4.9
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "这本书一直是我想买的，准备好好学学，也准备升职加薪。"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "质量不错，机械工业出版社还是很良心的，值得购买"
+                }
+            ]
+        },
+        {
+            "id": 10009,
+            "isUsedbooks": 0,
+            "name": "C Primer Plus(第6版)(中文版)",
+            "price": 71.7,
+            "freight": 0,
+            "sales_volume": 250,
+            "author": "普拉达 (Stephen Prata) (作者),‎ 姜佑 (译者)",
+            "seller": 3,
+            "tags": [0, 2],
+            "url": "https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01FE26HAU/ref=redir_mobile_desktop/462-5023534-1823600?ie=UTF8&%2AVersion%2A=1&%2Aentries%2A=0",
+            "picture": "https://images-cn.ssl-images-amazon.com/images/I/51k7PNeuQ7L._SX387_BO1,204,203,200_.jpg",
+            "detail": {
+                "publisher": "人民邮电出版社",
+                "pub_date": "2016年4月1日",
+                "pages": 730,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "《C Primer Plus（第6版）中文版》可作为C语言的教材，适用于需要系统学习C语言的初学者，也适用于巩固C语言知识或希望进一步提高编程技术的程序员。",
+                "content": "第1章初识C语言1\n 1.1C语言的起源\n 0.2 1.2选择C语言的理由\n 1.2.1设计特性\n 1.2.2高效性"
+            },
+            "scores": {
+                "credit": 4.5,
+                "good": 4.0
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "说是c语言的权威此书当之无愧"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "书非常好，没有损坏，我的这本没有出现乱码和错别字"
+                }
+            ]
+        },
+        {
+            "id": 10010,
+            "isUsedbooks": 1,
+            "name": "C++ Primer Plus 第6版中文第六版",
+            "price": 80.10,
+            "freight": 0,
+            "sales_volume": 199,
+            "author": "蒂芬•普拉达 (Stephen Prata) (作者),‎ 张海龙 (译者)",
+            "seller": 3,
+            "tags": [0, 2],
+            "url": "https://www.amazon.cn/C-Primer-Plus%E4%B8%AD%E6%96%87%E7%89%88-%E8%92%82%E8%8A%AC%E2%80%A2%E6%99%AE%E6%8B%89%E8%BE%BE/dp/B008A4XZRI/ref=redir_mobile_desktop?ie=UTF8&refRID=0Y5NS91H1DF5GHQX7KXS",
+            "picture": "https://images-cn.ssl-images-amazon.com/images/I/51EF65Xtg5L._SY498_BO1,204,203,200_.jpg",
+            "detail": {
+                "publisher": "人民邮电出版社",
+                "pub_date": "2012-07-01",
+                "pages": 936,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "C++是在C语言基础上开发的一种集面向对象编程、通用编程和传统的过程化编程于一体的编程语言，是C语言的超集。《C++ Primer Plus<第6版>中文版》由Stehpen Prata著，张海龙、袁国忠译：是根据2003年的ISO/ANSI C++标准编写的。通过大量短小精悍的程序详细而全面地阐述了C++的基本概念和技术。全书分为18章和10个附录，分别介绍了C++程序的运行方式、基本数据类型、复合数据类型、循环和关系表达式、分支语句和逻辑操作符、函数重载和函数模板、内存模型和名称空间、类的设计和使用、多态、虚函数、动态内存分配、继承、代码重用、友元、异常处理技术、string类和标准模板库、输入/输出等内容。《C++ Primer Plus<第6版>中文版》针对C++初学者，从C语言基础知识开始介绍，然后在此基础上详细阐述C++新增的特性，因此不要求读者有较多C语言方面的背景知识。本书可以作为高等院校C++课程的教材，也可以供初学者自学C++时使用。",
+                "content": "***章 预备知识\n第2章 开始学习C++\n第3章 处理数据\n第4章 复合类型\n第5章 循环和关系表达式\n第6章 分支语句和逻辑运算符\n第7章 函数——C++的编程模块\n第8章 函数探幽\n第9章 内存模型和名称空间\n***0章 对象和类"
+            },
+            "scores": {
+                "credit": 4.5,
+                "good": 4.7
+            },
+            "comments": [{
+                    "user": "j***9（匿名）",
+                    "comment": "周围同学都在看这本书，这本书看着不累，很容易理解，如果啃完这一本至少基础肯定是比较扎实的了，而且有很多实际中经常遇到的问题和建议。感觉非常好，还在学习中。"
+                },
+                {
+                    "user": "苏***1（匿名）",
+                    "comment": "这本书解决了我很多长久以来的疑惑，是一本很好的入门书籍，由浅入深"
+                }
+            ]
+        },
+        {
+            "id": 10011,
+            "isUsedbooks": 0,
+            "name": "时间简史",
+            "price": 11.00,
+            "freight": 0,
+            "sales_volume": 750,
+            "author": "史蒂芬•霍金 (Stephen Hawking) (作者),‎ 许明贤 (译者)",
+            "seller": 3,
+            "tags": [0],
+            "url": "https://www.amazon.cn/dp/B0011C2GGC/ref=sr_1_2?s=books&ie=UTF8&qid=1513766690&sr=1-2&keywords=%E6%97%B6%E9%97%B4%E7%AE%80%E5%8F%B2",
+            "picture": "https://images-cn.ssl-images-amazon.com/images/I/41f9DX2BzRL._SX351_BO1,204,203,200_.jpg",
+            "detail": {
+                "publisher": "湖南科学技术出版社",
+                "pub_date": "2007-07-01",
+                "pages": 188,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "史蒂芬•霍金的《时间简史》，自1988年首版以来的10年岁月里，已成为科学著作的里程碑，在全球销售已近1000万册。首版内容介绍了宇宙本性最前沿的知识。微观和宏观世界观测技术领域方面10年来的进展证明了霍金教授的许多理论预言。他为了把观测的新知识介绍给读者，重写了前言，全面更新了原版的内容，并新增了一章有关虫洞和时间旅行的激动人心的课题。",
+                "content": "第一章 我们的宇宙图象\n 第二章 空间和时间\n 第三章 膨胀的宇宙\n 第四章 不确定性原理"
+            },
+            "scores": {
+                "credit": 4.9,
+                "good": 4.7
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "物理学有一定基础的，完全可以阅读这本书。对于某一部分如果不能明了，不用停下来仔细思考，可以抓住几个重点概念然后继续读。这书完全可以作为思想类的书籍来理解。很喜欢，准备入手一本纸板的。"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "个人觉得，这本书需要很高的专业背景才能读得懂；想想也是，要想搞懂第一推动，哪有那么容易啊。不过整体来说还是有那么一点点小收获吧。"
+                }
+            ]
+        },
+        {
+            "id": 10012,
+            "isUsedbooks": 0,
+            "name": "时间简史",
+            "price": 12.20,
+            "freight": 0,
+            "sales_volume": 10750,
+            "author": "[英] 史蒂芬·霍金 著；许明贤，吴忠超 译",
+            "seller": 1,
+            "tags": [0, 2],
+            "url": "https://item.jd.com/10018510.html",
+            "picture": "https://img10.360buyimg.com/n1/g10/M00/00/19/rBEQWFEA_k4IAAAAAAgpp9zHT58AAAKBgBdNQEACCm_233.jpg",
+            "detail": {
+                "publisher": "湖南科学技术出版社",
+                "pub_date": "2007-07-01",
+                "pages": 188,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "史蒂芬•霍金的《时间简史》，自1988年首版以来的10年岁月里，已成为科学著作的里程碑，在全球销售已近1000万册。首版内容介绍了宇宙本性最前沿的知识。微观和宏观世界观测技术领域方面10年来的进展证明了霍金教授的许多理论预言。他为了把观测的新知识介绍给读者，重写了前言，全面更新了原版的内容，并新增了一章有关虫洞和时间旅行的激动人心的课题。",
+                "content": "第一章 我们的宇宙图象\n 第二章 空间和时间\n 第三章 膨胀的宇宙\n 第四章 不确定性原理"
+            },
+            "scores": {
+                "credit": 4.5,
+                "good": 4.9
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "也是挺厚的书，平装本，需要花一点时间看完了。"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "比插图版的要便宜，感觉这种简装就很好，厚厚一本得看一段时间了"
+                }
+            ]
+        },
+        {
+            "id": 10013,
+            "isUsedbooks": 0,
+            "name": "时间简史（插图版）",
+            "price": 31.30,
+            "freight": 0,
+            "sales_volume": 10750,
+            "author": "[英] 史蒂芬·霍金 著；许明贤，吴忠超 译",
+            "seller": 1,
+            "tags": [0, 2],
+            "url": "https://item.jd.com/10018533.html",
+            "picture": "https://img13.360buyimg.com/n1/jfs/t5749/151/2155508718/91400/b98f9834/592d2215N0f718a02.jpg",
+            "detail": {
+                "publisher": "湖南科学技术出版社",
+                "pub_date": "2007-07-01",
+                "pages": 243,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "史蒂芬•霍金的《时间简史》，自1988年首版以来的10年岁月里，已成为科学著作的里程碑，在全球销售已近1000万册。首版内容介绍了宇宙本性最前沿的知识。微观和宏观世界观测技术领域方面10年来的进展证明了霍金教授的许多理论预言。他为了把观测的新知识介绍给读者，重写了前言，全面更新了原版的内容，并新增了一章有关虫洞和时间旅行的激动人心的课题。",
+                "content": "第一章 我们的宇宙图象\n 第二章 空间和时间\n 第三章 膨胀的宇宙\n 第四章 不确定性原理"
+            },
+            "scores": {
+                "credit": 4.5,
+                "good": 4.9
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "有彩色插图，印刷质量不错，应该很快能看完，当做科普扩展自己的视野。"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "不错，正版，244页，但没有封膜，印刷精美，铜版纸，可做收藏书籍。值得购买。"
+                }
+            ]
+        },
+        {
+            "id": 10014,
+            "isUsedbooks": 0,
+            "name": "Algorithms",
+            "price": 34.8,
+            "freight": 0,
+            "sales_volume": 50,
+            "author": "Sanjoy Dasgupta,‎ Christos Papadimitriou,‎ Umesh Vazirani,‎ 王沛 (译者),‎ 唐扬斌 (译者),‎ 刘齐军 (译者)",
+            "seller": 3,
+            "tags": [0],
+            "url": "https://www.amazon.cn/dp/B001CZJEO0/",
+            "picture": "https://images-cn.ssl-images-amazon.com/images/I/51Fp4vXuBkL._SX410_BO1,204,203,200_.jpg",
+            "detail": {
+                "publisher": "清华大学出版社",
+                "pub_date": "2008-07-01",
+                "pages": 345,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "作为一本介绍算法技术和思想的书籍，本书不仅是面各信息学科大学生的优秀教材（或参考书），更是将任何具有初等数学基础的人引入算法应用与研究殿堂的一块引路石。本书循序渐进、深入浅出地展示了算法研究与应用领域中，从模型分析、算法构造到复杂性分析和算法优化的方方面面。涉及内容从古老的算术算法、排序算法、简单算法、线性规划、动态规划、随机算法以及NP复杂理论，甚至是尚未完全显现全貌的量子计算，覆盖了经典、现代和未来算法发展的众多代表性成果。　　《国外经典教材·计算机科学与技术：算法概论》选材新颖，内容丰富，适用于作为计算机学科以及相关学科算法课程的教材和参考书，同时也可作从事算法研究的入门书籍。",
+                "content": "第0章 序言\n 0.1 书籍和算法\n 0.2 从Fibonacci数列开始\n 0.3 大O符号\n 习题"
+            },
+            "scores": {
+                "credit": 4.5,
+                "good": 3.7
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "内容很全面，如果你是个爱动笔算的人，这本书很适合你，算法精辟，但是推倒过程太简明了，笔算了半天才能搞明白，既有基本思想又有具体算法，但是本书更偏重前者，如果要详细了解某个算法，还是看算法导论得了。不论是刚接触算法还是已经有所研究，我认为这本书都值得珍藏。"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "这本书据说评价很高 我们学校指定用书，然后感觉翻译好烂 后悔应该买本英文版的书本内容写的蛮简略 不如算法导论那本 可能习题出的比较奥好吧"
+                }
+            ]
+        },
+        {
+            "id": 10015,
+            "isUsedbooks": 0,
+            "name": "时间简史（插图版）",
+            "price": 19.80,
+            "freight": 0,
+            "sales_volume": 750,
+            "author": "[英] 史蒂芬·霍金 著；许明贤，吴忠超 译",
+            "seller": 2,
+            "tags": [0, 3],
+            "url": "https://detail.tmall.com/item.htm?id=534207854120&ali_refid=a3_430673_1006:1106035734:N:%E6%97%B6%E9%97%B4%E7%AE%80%E5%8F%B2:ed7d4c84530a3ed2ded5b3fa9c5fb163&ali_trackid=1_ed7d4c84530a3ed2ded5b3fa9c5fb163&spm=a2e15.8261149.07626516002.1",
+            "picture": "https://img.alicdn.com/bao/uploaded/i3/1744416867/TB1VpjAc0HO8KJjSZFHXXbWJFXa_!!0-item_pic.jpg_430x430q90.jpg",
+            "detail": {
+                "publisher": "湖南科学技术出版社",
+                "pub_date": "2007-07-01",
+                "pages": 243,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "史蒂芬•霍金的《时间简史》，自1988年首版以来的10年岁月里，已成为科学著作的里程碑，在全球销售已近1000万册。首版内容介绍了宇宙本性最前沿的知识。微观和宏观世界观测技术领域方面10年来的进展证明了霍金教授的许多理论预言。他为了把观测的新知识介绍给读者，重写了前言，全面更新了原版的内容，并新增了一章有关虫洞和时间旅行的激动人心的课题。",
+                "content": "第一章 我们的宇宙图象\n 第二章 空间和时间\n 第三章 膨胀的宇宙\n 第四章 不确定性原理"
+            },
+            "scores": {
+                "credit": 4.5,
+                "good": 4.9
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "有彩色插图，印刷质量不错，应该很快能看完，当做科普扩展自己的视野。"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "不错，正版，244页，但没有封膜，印刷精美，铜版纸，可做收藏书籍。值得购买。"
+                }
+            ]
+        },
+        {
+            "id": 10016,
+            "isUsedbooks": 0,
+            "name": "时间简史（插图版）",
+            "price": 31.10,
+            "freight": 0,
+            "sales_volume": 24545,
+            "author": "[英] 史蒂芬·霍金 著；许明贤，吴忠超 译",
+            "seller": 4,
+            "tags": [0],
+            "url": "http://product.dangdang.com/463785.html",
+            "picture": "http://img3m5.ddimg.cn/69/27/463785-1_u_1.jpg",
+            "detail": {
+                "publisher": "湖南科学技术出版社",
+                "pub_date": "2007-07-01",
+                "pages": 243,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "史蒂芬•霍金的《时间简史》，自1988年首版以来的10年岁月里，已成为科学著作的里程碑，在全球销售已近1000万册。首版内容介绍了宇宙本性最前沿的知识。微观和宏观世界观测技术领域方面10年来的进展证明了霍金教授的许多理论预言。他为了把观测的新知识介绍给读者，重写了前言，全面更新了原版的内容，并新增了一章有关虫洞和时间旅行的激动人心的课题。",
+                "content": "第一章 我们的宇宙图象\n 第二章 空间和时间\n 第三章 膨胀的宇宙\n 第四章 不确定性原理"
+            },
+            "scores": {
+                "credit": 4.9,
+                "good": 4.9
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "花了一个星期时间看完了这本书，因为不是学这个专业的，所以看得有点云里雾里的，书中有很多词汇并不能完全的理解。但是看完本书，最起码对我们的宇宙，以及我们所处的地球多了一些了解。因此本书对自己业余知识面的丰富还是很有益处的，而且看完这本书对自己人生的意义也有了更进一步的思考与领悟。 "
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "本书的装帧，图文，叙述方式都非常不错，可读性强，引人入胜。 "
+                }
+            ]
+        },
+        {
+            "id": 10017,
+            "isUsedbooks": 0,
+            "name": "荷马史诗·奥德赛",
+            "price": 28.70,
+            "freight": 0,
+            "sales_volume": 1050,
+            "author": "[古希腊] 荷马 著；王焕生 译",
+            "seller": 1,
+            "tags": [0, 2],
+            "url": "http://item.jd.com/11711291.html?cu=true&utm_source=baidu-search&utm_medium=cpc&utm_campaign=t_262767352_baidusearch&utm_term=23672965503_0_b4d6a063ef2345df99a2531776bf8097",
+            "picture": "http://img11.360buyimg.com/n1/jfs/t1213/7/1282093837/1214677/7b55fbc6/5588bda5N819b1b7e.jpg",
+            "detail": {
+                "publisher": "人民文学出版社",
+                "pub_date": "2015-06-01",
+                "pages": 493,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "《名著名译丛书 荷马史诗·奥德赛》是以特洛亚战争传说为题材的“系列史诗”中惟一一部传世的“返乡史诗”。足智多谋的奥德修斯用木马计攻陷特洛亚城之后，率领自己的军队渡海回国。途中遭遇各种艰难险阻，历经十年飘泊，随行同伴全部遇难，只有他在女神雅典娜的佑助下，坚韧不拔地孤身一人回到久别的故乡。",
+                "content": "第一卷奥林波斯神明议允奥德修斯返家园"
+            },
+            "scores": {
+                "credit": 4.5,
+                "good": 4.7
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "装帧精美，纸质好，印刷清晰，还没读不知翻译的如何，拿到手里很喜欢！"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "经典之作，是为了配合读尤利西斯买的这本书"
+                }
+            ]
+        },
+        {
+            "id": 10018,
+            "isUsedbooks": 0,
+            "name": "荷马史诗：伊利亚特·奥德赛",
+            "price": 33.20,
+            "freight": 0,
+            "sales_volume": 2500,
+            "author": "[古希腊] 荷马 著；王焕生 译",
+            "seller": 4,
+            "tags": [0],
+            "url": "http://product.dangdang.com/24170737.html?_utm_sem_id=11770080&_ddclickunion=422-kw-9-%CE%C4%D2%D5%C9%FA%BB%EE%C0%F8%D6%BE-%CE%C4%D1%A7_%CD%E2%B9%FA%CA%AB%B8%E8_%BA%C9%C2%ED%CA%B7%CA%AB|ad_type=0|sys_id=1",
+            "picture": "http://img3m7.ddimg.cn/85/6/24170737-1_u_1.jpg",
+            "detail": {
+                "publisher": "人民文学出版社",
+                "pub_date": "2015-06-01",
+                "pages": 493,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "《名著名译丛书 荷马史诗·奥德赛》是以特洛亚战争传说为题材的“系列史诗”中惟一一部传世的“返乡史诗”。足智多谋的奥德修斯用木马计攻陷特洛亚城之后，率领自己的军队渡海回国。途中遭遇各种艰难险阻，历经十年飘泊，随行同伴全部遇难，只有他在女神雅典娜的佑助下，坚韧不拔地孤身一人回到久别的故乡。",
+                "content": "第一卷奥林波斯神明议允奥德修斯返家园"
+            },
+            "scores": {
+                "credit": 4.6,
+                "good": 4.2
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "非常喜欢的两部书，清晰，流畅，多头线索并进，主题突出，结构有序，很值得买来。"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "这写的啥鬼，完全看不懂，像是某种诗？？？？"
+                }
+            ]
+        },
+        {
+            "id": 10019,
+            "isUsedbooks": 0,
+            "name": "钢铁是怎样炼成的",
+            "price": 34.8,
+            "freight": 0,
+            "sales_volume": 66650,
+            "author": "奥斯特洛夫斯基 (作者),‎ 吴兴勇 (译者)",
+            "seller": 3,
+            "tags": [0, 2],
+            "url": "https://www.amazon.cn/%E9%92%A2%E9%93%81%E6%98%AF%E6%80%8E%E6%A0%B7%E7%82%BC%E6%88%90%E7%9A%84-%E5%A5%A5%E6%96%AF%E7%89%B9%E6%B4%9B%E5%A4%AB%E6%96%AF%E5%9F%BA/dp/B002V64G7Y/ref=redir_mobile_desktop?ie=UTF8&pi=SL500_SY115",
+            "picture": "https://images-cn.ssl-images-amazon.com/images/I/51zbv6K4LwL._SX342_BO1,204,203,200_.jpg",
+            "detail": {
+                "publisher": "吉林出版集团有限责任公司",
+                "pub_date": "2009年9月1日",
+                "pages": 335,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "小说以主人公保尔·柯察金的生活经历为线索，展现了那段历史期间，苏俄广阔的历史画面和人民艰苦卓绝的斗争生活。保尔·柯察金出生在一个贫苦的工人家庭。十月革命后，老布尔什维克茹赫赖来到保尔的家乡开展工作，使保尔懂得了许多革命道理。",
+                "content": "第一部\n第一章\n第二章\n第三章\n第四章"
+            },
+            "scores": {
+                "credit": 4.2,
+                "good": 4.2
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "值得买给孩子一读"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "童年回忆（滑稽）"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "6666666"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "Very good！！！！"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "书有破损，但服务好评"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "很棒"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "非常给力，看着很不错"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "挺好的"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "物流太拖拉了"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "很ok"
+                }
+            ]
+        },
+        {
+            "id": 10020,
+            "isUsedbooks": 0,
+            "name": "Python基础教程（第2版）",
+            "price": 39.50,
+            "freight": 0,
+            "sales_volume": 350,
+            "author": "[挪] Magnus Lie Hetland 著；司维，曾军崴，谭颖华 译",
+            "seller": 1,
+            "tags": [0, 2],
+            "url": "http://item.jd.com/11461683.html",
+            "picture": "http://img13.360buyimg.com/n1/jfs/t5659/286/1999153746/316410/a74ebcc3/592bf168N9c71a877.jpg",
+            "detail": {
+                "publisher": "人民邮电出版社",
+                "pub_date": "2014-06-01",
+                "pages": 470,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "《Python基础教程（第2版·修订版）》是经典的Python入门教程，层次鲜明，结构严谨，内容翔实，特别是最后几章，作者将前面讲述的内容应用到10个引人入胜的项目中，并以模板的形式介绍了项目的开发过程，手把手教授Python开发，让读者从项目中领略Python的真正魅力。",
+                "content": "第1章 快速改造：基础知识 "
+            },
+            "scores": {
+                "credit": 4.5,
+                "good": 4.3
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "包装完整没有破损，纸质还行，印刷也清晰。就是本来就挺薄的，还豆大的字，内容感觉没多少啊。不过打折力度超大，买来当工具书查的。"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "物流非常给力，书是入门的，看着很不错"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "6666666"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "Very good！！！！"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "书有破损，但服务好评"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "很棒"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "还可以，非常浅显易懂"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "非常给力，看着很不错"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "挺好的"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "物流太拖拉了"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "很ok"
+                }
+            ]
+        },
+        {
+            "id": 10021,
+            "isUsedbooks": 0,
+            "name": "Python基础教程第二版",
+            "price": 39.50,
+            "freight": 0,
+            "sales_volume": 1150,
+            "author": "[挪] Magnus Lie Hetland 著；司维，曾军崴，谭颖华 译",
+            "seller": 4,
+            "tags": [0],
+            "url": "http://product.dangdang.com/23473514.html",
+            "picture": "http://img3m4.ddimg.cn/20/11/23473514-2_u_2.jpg",
+            "detail": {
+                "publisher": "人民邮电出版社",
+                "pub_date": "2014-06-01",
+                "pages": 470,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "《Python基础教程（第2版·修订版）》是经典的Python入门教程，层次鲜明，结构严谨，内容翔实，特别是最后几章，作者将前面讲述的内容应用到10个引人入胜的项目中，并以模板的形式介绍了项目的开发过程，手把手教授Python开发，让读者从项目中领略Python的真正魅力。",
+                "content": "第1章 快速改造：基础知识 "
+            },
+            "scores": {
+                "credit": 4.5,
+                "good": 4.8
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "包装完整没有破损，纸质还行，印刷也清晰。就是本来就挺薄的，还豆大的字，内容感觉没多少啊。不过打折力度超大，买来当工具书查的。"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "物流非常给力，书是入门的，看着很不错"
+                }
+            ]
+        },
+        {
+            "id": 10022,
+            "isUsedbooks": 0,
+            "name": "JavaScript高级程序设计(第3版)",
+            "price": 82.90,
+            "freight": 0,
+            "sales_volume": 350,
+            "author": "[美] Nicholas C.Zakas 著；李松峰，曹力 译",
+            "seller": 1,
+            "tags": [0, 2],
+            "url": "http://item.jd.com/10951037.html",
+            "picture": "http://img12.360buyimg.com/n1/jfs/t5713/237/2034261320/248346/e364dcaa/592bf164N7a4187c3.jpg",
+            "detail": {
+                "publisher": "人民邮电出版社",
+                "pub_date": "2012-03-01",
+                "pages": 730,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "作为JavaScript技术经典名著，《JavaScript高级程序设计（第3版）》承继了之前版本全面深入、贴近实战的特点，在详细讲解了JavaScript语言的核心之后，条分缕析地为读者展示了现有规范及实现为开发Web应用提供的各种支持和特性。",
+                "content": "第1章　JavaScript简介　1\n1.1　JavaScript简史　1"
+            },
+            "scores": {
+                "credit": 4.8,
+                "good": 4.8
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "正品无疑，内容不错，很厚的一本书，前端开发人员必备，无光盘，代码可以到书中提到的网站下载"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "书本挺好，加油学习。"
+                }
+            ]
+        },
+        {
+            "id": 10023,
+            "isUsedbooks": 0,
+            "name": "牛津高阶英汉双解词典",
+            "price": 99.40,
+            "freight": 0,
+            "sales_volume": 22500,
+            "author": "[英] 霍恩比 ",
+            "seller": 1,
+            "tags": [0, 2, 3],
+            "url": "https://item.jd.com/11492357.html",
+            "picture": "https://img12.360buyimg.com/n1/jfs/t205/294/1790383960/136276/4aa02705/53b8fb34N0184218f.jpg",
+            "detail": {
+                "publisher": "商务印书馆",
+                "pub_date": "2014-06-01",
+                "pages": 2658,
+                "language": "中文/English"
+            },
+            "information": {
+                "introduction": "《牛津高阶英汉双解词典（第8版）》为世所公认的英语学习词典，自1948年首次出版至今，全球销量已超过5000万册，惠及世界各地一代又一代学子。第八版较之前版多有突破，更为实用和准确，充分满足读者听、说、读、写、译各方面需求，突出学习功能。双解版汉译紧贴英文原义，符合汉语表述方式。《牛津高阶英汉双解词典》（第8版）是案头必备的英语工具书。",
+                "content": "商务印书馆出版前言（简体汉字本）"
+            },
+            "scores": {
+                "credit": 4.9,
+                "good": 4.9
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "牛津高阶英汉双解词典，赞，解释细。"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "很厚的一本书，看着都晕迷了，叫小朋友自己研究吧。"
+                }
+            ]
+        },
+        {
+            "id": 10024,
+            "isUsedbooks": 0,
+            "name": "牛津高阶英汉双解词典",
+            "price": 99.40,
+            "freight": 0,
+            "sales_volume": 12500,
+            "author": "[英] 霍恩比 ",
+            "seller": 4,
+            "tags": [0],
+            "url": "http://product.dangdang.com/23505425.html",
+            "picture": "http://img3m5.ddimg.cn/53/28/23505425-1_w_20.jpg",
+            "detail": {
+                "publisher": "商务印书馆",
+                "pub_date": "2014-06-01",
+                "pages": 2658,
+                "language": "中文/English"
+            },
+            "information": {
+                "introduction": "《牛津高阶英汉双解词典（第8版）》为世所公认的英语学习词典，自1948年首次出版至今，全球销量已超过5000万册，惠及世界各地一代又一代学子。第八版较之前版多有突破，更为实用和准确，充分满足读者听、说、读、写、译各方面需求，突出学习功能。双解版汉译紧贴英文原义，符合汉语表述方式。《牛津高阶英汉双解词典》（第8版）是案头必备的英语工具书。",
+                "content": "商务印书馆出版前言（简体汉字本）"
+            },
+            "scores": {
+                "credit": 4.9,
+                "good": 4.6
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "牛津高阶英汉双解词典，赞，解释细。"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "很不错"
+                }
+            ]
+        },
+        {
+            "id": 10025,
+            "isUsedbooks": 0,
+            "name": "C++程序设计语言（第1-3部分）（原书第4版）",
+            "price": 109.80,
+            "freight": 0,
+            "sales_volume": 1150,
+            "author": "[美] 本贾尼·斯特劳斯特鲁普 著；王刚 译",
+            "seller": 1,
+            "tags": [0, 2],
+            "url": "http://item.jd.com/11986384.html",
+            "picture": "http://img14.360buyimg.com/n1/jfs/t2779/163/3276490316/168038/6d73edca/5787050bN74d07b4e.jpg",
+            "detail": {
+                "publisher": "机械工业出版社",
+                "pub_date": "2016-07-01",
+                "pages": 726,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "《C++程序设计语言》（原书第4版）是C++领域经典的参考书，介绍了C++11的各项新特性和新功能。全书共分四部分。部分（第1~5章）是引言，包括C++的背景知识，C++语言及其标准库的简要介绍；第二部分（第6~15章）介绍C++的内置类型和基本特性，以及如何用它们构造程序；第三部分（第16~29章）介绍C++的抽象机制及如何用这些机制编写面向对象程序和泛型程序；第四部分（第30~44章）概述标准库并讨论一些兼容性问题。由于篇幅问题，原书中文版分两册出版，分别对应原书的至三部分和第四部分。这一册为至三部分。 ",
+                "content": "1.1　本书结构 2 1.1.1　引言 2 "
+            },
+            "scores": {
+                "credit": 4.7,
+                "good": 4.7
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "对于一点编程知识都没有的读者，这本书可能还是稍稍有点难。"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "非常好，我喜欢。要认真学习啦。"
+                }
+            ]
+        },
+        {
+            "id": 10026,
+            "isUsedbooks": 0,
+            "name": "C++程序设计语言（第1-3部分）（原书第4版）",
+            "price": 109.80,
+            "freight": 0,
+            "sales_volume": 3150,
+            "author": "[美] 本贾尼·斯特劳斯特鲁普 著；王刚 译",
+            "seller": 4,
+            "tags": [0, 2],
+            "url": "http://product.dangdang.com/23999167.html",
+            "picture": "http://img3m7.ddimg.cn/82/5/23999167-1_u_6.jpg",
+            "detail": {
+                "publisher": "机械工业出版社",
+                "pub_date": "2016-07-01",
+                "pages": 726,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "《C++程序设计语言》（原书第4版）是C++领域经典的参考书，介绍了C++11的各项新特性和新功能。全书共分四部分。部分（第1~5章）是引言，包括C++的背景知识，C++语言及其标准库的简要介绍；第二部分（第6~15章）介绍C++的内置类型和基本特性，以及如何用它们构造程序；第三部分（第16~29章）介绍C++的抽象机制及如何用这些机制编写面向对象程序和泛型程序；第四部分（第30~44章）概述标准库并讨论一些兼容性问题。由于篇幅问题，原书中文版分两册出版，分别对应原书的至三部分和第四部分。这一册为至三部分。 ",
+                "content": "1.1　本书结构 2 1.1.1　引言 2 "
+            },
+            "scores": {
+                "credit": 4.7,
+                "good": 4.5
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "有点难。"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "书有点问题，不过服务不错，满分"
+                }
+            ]
+        },
+        {
+            "id": 10027,
+            "isUsedbooks": 0,
+            "name": "C++程序设计语言（第1-3部分）（原书第4版）",
+            "price": 90.30,
+            "freight": 0,
+            "sales_volume": 31,
+            "author": "[美] 本贾尼·斯特劳斯特鲁普 著；王刚 译",
+            "seller": 2,
+            "tags": [0, 1, 2, 3],
+            "url": "https://detail.tmall.com/item.htm?spm=a230r.1.14.16.4c690210rXWLBu&id=534533155190&ns=1&abbucket=7",
+            "picture": "https://img.alicdn.com/bao/uploaded/i3/TB1ZZPfKFXXXXaEXFXXXXXXXXXX_!!0-item_pic.jpg_430x430q90.jpg",
+            "detail": {
+                "publisher": "机械工业出版社",
+                "pub_date": "2016-07-01",
+                "pages": 726,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "《C++程序设计语言》（原书第4版）是C++领域经典的参考书，介绍了C++11的各项新特性和新功能。全书共分四部分。部分（第1~5章）是引言，包括C++的背景知识，C++语言及其标准库的简要介绍；第二部分（第6~15章）介绍C++的内置类型和基本特性，以及如何用它们构造程序；第三部分（第16~29章）介绍C++的抽象机制及如何用这些机制编写面向对象程序和泛型程序；第四部分（第30~44章）概述标准库并讨论一些兼容性问题。由于篇幅问题，原书中文版分两册出版，分别对应原书的至三部分和第四部分。这一册为至三部分。 ",
+                "content": "1.1　本书结构 2 1.1.1　引言 2 "
+            },
+            "scores": {
+                "credit": 4.5,
+                "good": 4.2
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "C++特性讲的比较全，但太泛了，，不适合初级。"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "第一本纸质不太好，颜色暗黄，比较薄，第二本明显纸质颜色，厚薄都要比第一本好，可能是由于厚度原因吧，应该是正版的"
+                }
+            ]
+        },
+        {
+            "id": 10028,
+            "isUsedbooks": 0,
+            "name": "新华汉语词典（最新修订版）（彩色本）",
+            "price": 69.80,
+            "freight": 0,
+            "sales_volume": 550,
+            "author": "《新华汉语词典》编委会 编",
+            "seller": 1,
+            "tags": [0, 2],
+            "url": "https://item.jd.com/11191726.html",
+            "picture": "https://img11.360buyimg.com/n1/jfs/t6046/124/741061578/141987/d4047dfd/592bf166Ncddaa951.jpg",
+            "detail": {
+                "publisher": "商务印书馆国际有限公司",
+                "pub_date": "2013-02-01",
+                "pages": 1350,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "《新华汉语词典（新修订版）（彩色本）》是以记录普通话语汇为主的中型词典，供中等以上文化程度的读者使用。词典中所收条目，包括字、词、词组、熟语、成语等，共约60000条.",
+                "content": "使用说明\n 凡例\n 汉语拼音音节表\n 部首检字表"
+            },
+            "scores": {
+                "credit": 4.8,
+                "good": 4.2
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "我们家大儿子的学习工具书，非常好，卖家服务好，态度好，物流也快"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "还阔以，不过和和正规的词典还是有一定差距，纸张做的不是太好"
+                }
+            ]
+        },
+        {
+            "id": 10029,
+            "isUsedbooks": 0,
+            "name": "新华汉语词典（最新修订版）（彩色本）",
+            "price": 63.90,
+            "freight": 0,
+            "sales_volume": 950,
+            "author": "《新华汉语词典》编委会 编",
+            "seller": 4,
+            "tags": [0],
+            "url": "http://product.dangdang.com/23229776.html",
+            "picture": "http://img3m6.ddimg.cn/20/29/23229776-1_u_2.jpg",
+            "detail": {
+                "publisher": "商务印书馆国际有限公司",
+                "pub_date": "2013-02-01",
+                "pages": 1350,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "《新华汉语词典（新修订版）（彩色本）》是以记录普通话语汇为主的中型词典，供中等以上文化程度的读者使用。词典中所收条目，包括字、词、词组、熟语、成语等，共约60000条.",
+                "content": "使用说明\n 凡例\n 汉语拼音音节表\n 部首检字表"
+            },
+            "scores": {
+                "credit": 4.8,
+                "good": 4.5
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "很实用，孩子预习自己查，词量比较大，初中以下够用了。"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "学校老师推荐购买的工具书，很适合学生使用，功能强大，非常满意，全五分，赞一个。"
+                }
+            ]
+        },
+        {
+            "id": 10030,
+            "isUsedbooks": 0,
+            "name": "全球通史 从史前史到21世纪（ 第7版 修订版 中文版 套装上下册）（赠送精美地图）",
+            "price": 59.60,
+            "freight": 0,
+            "sales_volume": 150,
+            "author": "[美] 斯塔夫里阿诺斯 著；吴象婴，梁赤民，董书慧 等 译；吴象雯 校",
+            "seller": 1,
+            "tags": [0, 2],
+            "url": "https://item.jd.com/10076998.html",
+            "picture": "https://img13.360buyimg.com/n1/jfs/t6127/158/743177974/237990/cee1a01b/592bf160Nf2a88391.jpg",
+            "detail": {
+                "publisher": "北京大学出版社",
+                "pub_date": "2006-10-01",
+                "pages": 1186,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "《全球通史 从史前史到21世纪（上下册 第7版 修订版 中文版 赠地图 套装共2册）》分八个部分，四十四个章节，主要讲述了世界历史的进化，世界文明的发展及其对现代社会的影响。",
+                "content": "第一编 史前人类\n第1章 人类——食物采集者"
+            },
+            "scores": {
+                "credit": 4.5,
+                "good": 4.5
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "全球通是我比较喜欢历史这一套书，好好看看，京东比较给力，还好，不错，下次继续买，好像又买了一套错了"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "还没看，看着还不错，都说人丑就要多读书"
+                }
+            ]
+        },
+        {
+            "id": 10031,
+            "isUsedbooks": 0,
+            "name": "全球通史 从史前史到21世纪（ 第7版 修订版 中文版 套装上下册）（赠送精美地图）",
+            "price": 59.60,
+            "freight": 0,
+            "sales_volume": 150,
+            "author": "[美] 斯塔夫里阿诺斯 著；吴象婴，梁赤民，董书慧 等 译；吴象雯 校",
+            "seller": 4,
+            "tags": [0],
+            "url": "http://product.dangdang.com/9231298.html",
+            "picture": "http://img3m8.ddimg.cn/43/20/9231298-1_w_5.jpg",
+            "detail": {
+                "publisher": "北京大学出版社",
+                "pub_date": "2006-10-01",
+                "pages": 1186,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "《全球通史 从史前史到21世纪（上下册 第7版 修订版 中文版 赠地图 套装共2册）》分八个部分，四十四个章节，主要讲述了世界历史的进化，世界文明的发展及其对现代社会的影响。",
+                "content": "第一编 史前人类\n第1章 人类——食物采集者"
+            },
+            "scores": {
+                "credit": 4.5,
+                "good": 4.9
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "斯塔夫利阿诺斯对历史的见解自然是非常精道的，虽然不是完全按照时间来描述历史事件，但却把整个历史的发展过程分析得很透彻，让人领会到历史事件的内在联系和深远意义。 "
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "正是我想要的书！ "
+                }
+            ]
+        },
+        {
+            "id": 10032,
+            "isUsedbooks": 0,
+            "name": "全球通史 从史前史到21世纪（ 第7版 修订版 中文版 套装上下册）（赠送精美地图）",
+            "price": 58.56,
+            "freight": 0,
+            "sales_volume": 150,
+            "author": "[美] 斯塔夫里阿诺斯 著；吴象婴，梁赤民，董书慧 等 译；吴象雯 校",
+            "seller": 3,
+            "tags": [0],
+            "url": "https://www.amazon.cn/dp/B001UE7DM8/ref=sr_1_1?ie=UTF8&qid=1513783263&sr=8-1&keywords=%E5%85%A8%E7%90%83%E9%80%9A%E5%8F%B2",
+            "picture": "https://images-cn.ssl-images-amazon.com/images/I/51q-rv-nCJL._SX258_BO1,204,203,200_.jpg",
+            "detail": {
+                "publisher": "北京大学出版社",
+                "pub_date": "2005-01-01",
+                "pages": 1186,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "《全球通史 从史前史到21世纪（上下册 第7版 修订版 中文版 赠地图 套装共2册）》分八个部分，四十四个章节，主要讲述了世界历史的进化，世界文明的发展及其对现代社会的影响。",
+                "content": "第一编 史前人类\n第1章 人类——食物采集者"
+            },
+            "scores": {
+                "credit": 4.5,
+                "good": 4.6
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "感觉写 的一般，没有像有些名人评论的那么好！"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "正在看，印刷质量很好，里面的地图很赞，内容看起来很有吸引力，但又不适合像看小说一样一次看太多，就放在床头，正好每天睡觉前翻一翻 "
+                }
+            ]
+        },
+        {
+            "id": 10033,
+            "isUsedbooks": 0,
+            "name": "数学之美（第二版）",
+            "price": 32.90,
+            "freight": 0,
+            "sales_volume": 265,
+            "author": "吴军 著",
+            "seller": 1,
+            "tags": [0, 2],
+            "url": "https://item.jd.com/11572052.html",
+            "picture": "https://img12.360buyimg.com/n1/jfs/t535/313/495218117/815050/9be8097a/546b1647N4326ba2c.jpg",
+            "detail": {
+                "publisher": "人民邮电出版社",
+                "pub_date": "2014-11-01",
+                "pages": 312,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "几年前，“数学之美”系列文章原刊载于谷歌黑板报，获得上百万次点击，得到读者高度评价。正式出版前，吴军博士几乎把所有文章都重写了一遍，为的是把高深的数学原理讲得更加通俗易懂，让非专业读者也能领略数学的魅力。《数学之美》上市后深受广大读者欢迎，并荣获国家图书馆第八届文津图书奖。读者说，读了《数学之美》，才发现大学时学的数学知识，比如马尔科夫链、矩阵计算，甚至余弦函数原来都如此亲切，并且栩栩如生，才发现自然语言和信息处理这么有趣。",
+                "content": "第一版读者赞誉 \n 第二版出版说明\n 第一版序言\n 第二版序言\n 第二版前言"
+            },
+            "scores": {
+                "credit": 4.5,
+                "good": 4.7
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "书的质量不错，挺满意！"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "好书无需过多解释 吴军用比较易懂的基础数学知识解释了许多计算机相关知识简直美滋滋"
+                }
+            ]
+        },
+        {
+            "id": 10034,
+            "isUsedbooks": 0,
+            "name": "数学之美（第二版）",
+            "price": 32.90,
+            "freight": 0,
+            "sales_volume": 265,
+            "author": "吴军 著",
+            "seller": 4,
+            "tags": [0],
+            "url": "http://product.dangdang.com/23594870.html",
+            "picture": "http://img3m0.ddimg.cn/2/7/23594870-1_u_9.jpg",
+            "detail": {
+                "publisher": "人民邮电出版社",
+                "pub_date": "2014-11-01",
+                "pages": 312,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "几年前，“数学之美”系列文章原刊载于谷歌黑板报，获得上百万次点击，得到读者高度评价。正式出版前，吴军博士几乎把所有文章都重写了一遍，为的是把高深的数学原理讲得更加通俗易懂，让非专业读者也能领略数学的魅力。《数学之美》上市后深受广大读者欢迎，并荣获国家图书馆第八届文津图书奖。读者说，读了《数学之美》，才发现大学时学的数学知识，比如马尔科夫链、矩阵计算，甚至余弦函数原来都如此亲切，并且栩栩如生，才发现自然语言和信息处理这么有趣。",
+                "content": "第一版读者赞誉 \n 第二版出版说明\n 第一版序言\n 第二版序言\n 第二版前言"
+            },
+            "scores": {
+                "credit": 4.5,
+                "good": 4.5
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "大家别买错了，我以为是讲数学历史及其应用，但完全不是，只是讲到了和计算机当前应用对应的相关数学，而且主要是谷歌应用的技术，如果不是计算机工程师，完全没必要买 "
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "书很好，建议不喜欢数学的人看看这本书，看过了我相信你会爱上数学 "
+                }
+            ]
+        },
+        {
+            "id": 10035,
+            "isUsedbooks": 0,
+            "name": "上帝掷骰子吗？量子物理史话",
+            "price": 26.50,
+            "freight": 0,
+            "sales_volume": 150,
+            "author": "作者:曹天元　著",
+            "seller": 4,
+            "tags": [0],
+            "url": "http://product.dangdang.com/22453424.html",
+            "picture": "http://img3m4.ddimg.cn/26/11/22453424-1_w_2.jpg",
+            "detail": {
+                "publisher": "北京联合出版公司",
+                "pub_date": "2011年05月01日",
+                "pages": 381,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "本书是关于量子论的故事。量子论是一个极为奇妙的理论：从物理角度来说，它在科学家中间引起了最为激烈的争议和关注；从现实角度来说，它给我们的社会带来了无与伦比的变化和进步；从科学史角度来说，也几乎没有哪段历史比量子论的创立得到了更为彻底的研究。然而不可思议的是，它的基本观点和假说至今没有渗透到大众的意识中去，这无疑又给它增添了一道神秘的光环。",
+                "content": "量子物理史话\n序\n黄金时代 001"
+            },
+            "scores": {
+                "credit": 4.6,
+                "good": 4.2
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "很不错的一本书，作者通过对量子学历史的讲诉，同时用了各种比喻来帮助读者理解，让我们能够更容易了解量子力学。但是如果你打算开始通过各自量子力学的书来学习量子力学，最好先看这本，否则可能会觉得这本书的历史铺垫很乏味。 "
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "特别棒的一本科普读物，因为以前对物理就很感兴趣，所以看的也是很流畅。"
+                }
+            ]
+        },
+        {
+            "id": 10036,
+            "isUsedbooks": 0,
+            "name": "上帝掷骰子吗？：量子物理史话（全新修订精装珍藏）",
+            "price": 24.80,
+            "freight": 0,
+            "sales_volume": 150,
+            "author": "作者:曹天元　著",
+            "seller": 1,
+            "tags": [0, 2],
+            "url": "https://item.jd.com/11322382.html",
+            "picture": "https://img12.360buyimg.com/n1/jfs/t331/144/2049514225/87843/aae4d47c/544e0afaN656f5eda.jpg",
+            "detail": {
+                "publisher": "北京联合出版公司",
+                "pub_date": "2013-09-01",
+                "pages": 381,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "本书是关于量子论的故事。量子论是一个极为奇妙的理论：从物理角度来说，它在科学家中间引起了最为激烈的争议和关注；从现实角度来说，它给我们的社会带来了无与伦比的变化和进步；从科学史角度来说，也几乎没有哪段历史比量子论的创立得到了更为彻底的研究。然而不可思议的是，它的基本观点和假说至今没有渗透到大众的意识中去，这无疑又给它增添了一道神秘的光环。",
+                "content": "量子物理史话\n序\n黄金时代 001"
+            },
+            "scores": {
+                "credit": 4.6,
+                "good": 4.2
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "书很好，是正版，价格便宜狠划算"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "不错的图书，内容很新颖，值得一读，送货速度跟夸人，支持。"
+                }
+            ]
+        },
+        {
+            "id": 10037,
+            "isUsedbooks": 0,
+            "name": "资本论（套装全3卷）",
+            "price": 97.20,
+            "freight": 0,
+            "sales_volume": 2350,
+            "author": "马克思，恩格斯，中共中央马克思恩格斯列宁斯大林著作编译局 译",
+            "seller": 1,
+            "tags": [0, 2],
+            "url": "https://item.jd.com/10119031.html",
+            "picture": "https://img11.360buyimg.com/n1/jfs/t220/288/1384652468/105191/8ef4e3f6/53fad280Nfda74a7b.jpg",
+            "detail": {
+                "publisher": "人民出版社",
+                "pub_date": "2004-01-01",
+                "pages": 2989,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "资本论（第1卷）》是在《马克思恩格斯全集》中文一版第二十三卷的基础上，根据《马克思恩格斯全集》1991年历史考证版第二部分第十卷重新校订的。其中有插图卡尔·马克思像（1867年）；马克思1867年8月16日给恩格斯的信；《资本论》一卷德文一版的扉页；马克思给《资本论》一卷法文本出版者拉沙特尔的信。《资本论（第2卷）》是在《马克思恩格斯全集》中文一版第二十四卷的基础上，根据《马克思恩格斯全集》1963年柏林版第二十四卷重新校订的。《资本论（第3卷）》内容包括：剩余价值转化为利润和剩余价值率转化为利润率、利润转化为平均利润、商品资本和货币资本转化为商品经营资本和货币经营资本（商人资本）等。",
+                "content": "资本论：第一卷\n 卡·马克思 第一版序言\n 卡·马克思 第二版跋"
+            },
+            "scores": {
+                "credit": 4.9,
+                "good": 5.0
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "精装版的资本论，封面有闪光的星星片，很好看。纸张很好，价格很实惠，物超所值。物流寄来的时候，最下面的一本稍有磕碰，并无大碍。"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "送货快，包装有塑料，书本完好，内容详细。"
+                }
+            ]
+        },
+        {
+            "id": 10038,
+            "isUsedbooks": 0,
+            "name": "资本论（套装全3卷）",
+            "price": 97.20,
+            "freight": 0,
+            "sales_volume": 2250,
+            "author": "马克思，恩格斯，中共中央马克思恩格斯列宁斯大林著作编译局 译",
+            "seller": 4,
+            "tags": [0],
+            "url": "http://product.dangdang.com/20574283.html",
+            "picture": "http://img3m3.ddimg.cn/4/26/20574283-1_u_4.jpg",
+            "detail": {
+                "publisher": "人民出版社",
+                "pub_date": "2004-01-01",
+                "pages": 2989,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "资本论（第1卷）》是在《马克思恩格斯全集》中文一版第二十三卷的基础上，根据《马克思恩格斯全集》1991年历史考证版第二部分第十卷重新校订的。其中有插图卡尔·马克思像（1867年）；马克思1867年8月16日给恩格斯的信；《资本论》一卷德文一版的扉页；马克思给《资本论》一卷法文本出版者拉沙特尔的信。《资本论（第2卷）》是在《马克思恩格斯全集》中文一版第二十四卷的基础上，根据《马克思恩格斯全集》1963年柏林版第二十四卷重新校订的。《资本论（第3卷）》内容包括：剩余价值转化为利润和剩余价值率转化为利润率、利润转化为平均利润、商品资本和货币资本转化为商品经营资本和货币经营资本（商人资本）等。",
+                "content": "资本论：第一卷\n 卡·马克思 第一版序言\n 卡·马克思 第二版跋"
+            },
+            "scores": {
+                "credit": 4.9,
+                "good": 4.9
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "精装版的资本论，封面有闪光的星星片，很好看。纸张很好，价格很实惠，物超所值。物流寄来的时候，最下面的一本稍有磕碰，并无大碍。"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "送货快，包装有塑料，书本完好，内容详细。"
+                }
+            ]
+        },
+        {
+            "id": 10039,
+            "isUsedbooks": 0,
+            "name": "资本论（套装全3卷）",
+            "price": 103.00,
+            "freight": 0,
+            "sales_volume": 1250,
+            "author": "马克思，恩格斯，中共中央马克思恩格斯列宁斯大林著作编译局 译",
+            "seller": 3,
+            "tags": [0],
+            "url": "https://www.amazon.cn/dp/B00JLYXFOY/ref=sr_1_1?ie=UTF8&qid=1513785368&sr=8-1&keywords=%E8%B5%84%E6%9C%AC%E8%AE%BA",
+            "picture": "https://images-cn.ssl-images-amazon.com/images/I/51Oa9I881JL._SX401_BO1,204,203,200_.jpg",
+            "detail": {
+                "publisher": "人民出版社",
+                "pub_date": "2004-01-01",
+                "pages": 2989,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "资本论（第1卷）》是在《马克思恩格斯全集》中文一版第二十三卷的基础上，根据《马克思恩格斯全集》1991年历史考证版第二部分第十卷重新校订的。其中有插图卡尔·马克思像（1867年）；马克思1867年8月16日给恩格斯的信；《资本论》一卷德文一版的扉页；马克思给《资本论》一卷法文本出版者拉沙特尔的信。《资本论（第2卷）》是在《马克思恩格斯全集》中文一版第二十四卷的基础上，根据《马克思恩格斯全集》1963年柏林版第二十四卷重新校订的。《资本论（第3卷）》内容包括：剩余价值转化为利润和剩余价值率转化为利润率、利润转化为平均利润、商品资本和货币资本转化为商品经营资本和货币经营资本（商人资本）等。",
+                "content": "资本论：第一卷\n 卡·马克思 第一版序言\n 卡·马克思 第二版跋"
+            },
+            "scores": {
+                "credit": 4.9,
+                "good": 4.9
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "精装版的资本论，封面有闪光的星星片，很好看。纸张很好，价格很实惠，物超所值。物流寄来的时候，最下面的一本稍有磕碰，并无大碍。"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "送货快，包装有塑料，书本完好，内容详细。"
+                }
+            ]
+        },
+        {
+            "id": 10040,
+            "isUsedbooks": 1,
+            "name": "Algorithms",
+            "price": 34.8,
+            "freight": 0,
+            "sales_volume": 50,
+            "author": "Sanjoy Dasgupta,‎ Christos Papadimitriou,‎ Umesh Vazirani,‎ 王沛 (译者),‎ 唐扬斌 (译者),‎ 刘齐军 (译者)",
+            "seller": 3,
+            "tags": [0],
+            "url": "https://www.amazon.cn/dp/B001CZJEO0/",
+            "picture": "https://images-cn.ssl-images-amazon.com/images/I/51Fp4vXuBkL._SX410_BO1,204,203,200_.jpg",
+            "detail": {
+                "publisher": "清华大学出版社",
+                "pub_date": "2008-07-01",
+                "pages": 345,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "作为一本介绍算法技术和思想的书籍，本书不仅是面各信息学科大学生的优秀教材（或参考书），更是将任何具有初等数学基础的人引入算法应用与研究殿堂的一块引路石。本书循序渐进、深入浅出地展示了算法研究与应用领域中，从模型分析、算法构造到复杂性分析和算法优化的方方面面。涉及内容从古老的算术算法、排序算法、简单算法、线性规划、动态规划、随机算法以及NP复杂理论，甚至是尚未完全显现全貌的量子计算，覆盖了经典、现代和未来算法发展的众多代表性成果。　　《国外经典教材·计算机科学与技术：算法概论》选材新颖，内容丰富，适用于作为计算机学科以及相关学科算法课程的教材和参考书，同时也可作从事算法研究的入门书籍。",
+                "content": "第0章 序言\n 0.1 书籍和算法\n 0.2 从Fibonacci数列开始\n 0.3 大O符号\n 习题"
+            },
+            "scores": {
+                "credit": 4.6,
+                "good": 4.9
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "内容很全面，如果你是个爱动笔算的人，这本书很适合你，算法精辟，但是推倒过程太简明了，笔算了半天才能搞明白，既有基本思想又有具体算法，但是本书更偏重前者，如果要详细了解某个算法，还是看算法导论得了。不论是刚接触算法还是已经有所研究，我认为这本书都值得珍藏。"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "这本书据说评价很高 我们学校指定用书，然后感觉翻译好烂 后悔应该买本英文版的书本内容写的蛮简略 不如算法导论那本 可能习题出的比较奥好吧"
+                }
+            ]
+        },
+        {
+            "id": 10041,
+            "isUsedbooks": 0,
+            "name": "Algorithms",
+            "price": 34.8,
+            "freight": 0,
+            "sales_volume": 50,
+            "author": "Sanjoy Dasgupta,‎ Christos Papadimitriou,‎ Umesh Vazirani,‎ 王沛 (译者),‎ 唐扬斌 (译者),‎ 刘齐军 (译者)",
+            "seller": 3,
+            "tags": [0],
+            "url": "https://www.amazon.cn/dp/B001CZJEO0/",
+            "picture": "https://images-cn.ssl-images-amazon.com/images/I/51Fp4vXuBkL._SX410_BO1,204,203,200_.jpg",
+            "detail": {
+                "publisher": "清华大学出版社",
+                "pub_date": "2008-07-01",
+                "pages": 345,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "作为一本介绍算法技术和思想的书籍，本书不仅是面各信息学科大学生的优秀教材（或参考书），更是将任何具有初等数学基础的人引入算法应用与研究殿堂的一块引路石。本书循序渐进、深入浅出地展示了算法研究与应用领域中，从模型分析、算法构造到复杂性分析和算法优化的方方面面。涉及内容从古老的算术算法、排序算法、简单算法、线性规划、动态规划、随机算法以及NP复杂理论，甚至是尚未完全显现全貌的量子计算，覆盖了经典、现代和未来算法发展的众多代表性成果。　　《国外经典教材·计算机科学与技术：算法概论》选材新颖，内容丰富，适用于作为计算机学科以及相关学科算法课程的教材和参考书，同时也可作从事算法研究的入门书籍。",
+                "content": "第0章 序言\n 0.1 书籍和算法\n 0.2 从Fibonacci数列开始\n 0.3 大O符号\n 习题"
+            },
+            "scores": {
+                "credit": 4.6,
+                "good": 4.9
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "内容很全面，如果你是个爱动笔算的人，这本书很适合你，算法精辟，但是推倒过程太简明了，笔算了半天才能搞明白，既有基本思想又有具体算法，但是本书更偏重前者，如果要详细了解某个算法，还是看算法导论得了。不论是刚接触算法还是已经有所研究，我认为这本书都值得珍藏。"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "这本书据说评价很高 我们学校指定用书，然后感觉翻译好烂 后悔应该买本英文版的书本内容写的蛮简略 不如算法导论那本 可能习题出的比较奥好吧"
+                }
+            ]
+        },
+        {
+            "id": 10042,
+            "isUsedbooks": 1,
+            "name": "Algorithms",
+            "price": 34.8,
+            "freight": 0,
+            "sales_volume": 50,
+            "author": "Sanjoy Dasgupta,‎ Christos Papadimitriou,‎ Umesh Vazirani,‎ 王沛 (译者),‎ 唐扬斌 (译者),‎ 刘齐军 (译者)",
+            "seller": 3,
+            "tags": [0],
+            "url": "https://www.amazon.cn/dp/B001CZJEO0/",
+            "picture": "https://images-cn.ssl-images-amazon.com/images/I/51Fp4vXuBkL._SX410_BO1,204,203,200_.jpg",
+            "detail": {
+                "publisher": "清华大学出版社",
+                "pub_date": "2008-07-01",
+                "pages": 345,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "作为一本介绍算法技术和思想的书籍，本书不仅是面各信息学科大学生的优秀教材（或参考书），更是将任何具有初等数学基础的人引入算法应用与研究殿堂的一块引路石。本书循序渐进、深入浅出地展示了算法研究与应用领域中，从模型分析、算法构造到复杂性分析和算法优化的方方面面。涉及内容从古老的算术算法、排序算法、简单算法、线性规划、动态规划、随机算法以及NP复杂理论，甚至是尚未完全显现全貌的量子计算，覆盖了经典、现代和未来算法发展的众多代表性成果。　　《国外经典教材·计算机科学与技术：算法概论》选材新颖，内容丰富，适用于作为计算机学科以及相关学科算法课程的教材和参考书，同时也可作从事算法研究的入门书籍。",
+                "content": "第0章 序言\n 0.1 书籍和算法\n 0.2 从Fibonacci数列开始\n 0.3 大O符号\n 习题"
+            },
+            "scores": {
+                "credit": 4.6,
+                "good": 4.9
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "内容很全面，如果你是个爱动笔算的人，这本书很适合你，算法精辟，但是推倒过程太简明了，笔算了半天才能搞明白，既有基本思想又有具体算法，但是本书更偏重前者，如果要详细了解某个算法，还是看算法导论得了。不论是刚接触算法还是已经有所研究，我认为这本书都值得珍藏。"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "这本书据说评价很高 我们学校指定用书，然后感觉翻译好烂 后悔应该买本英文版的书本内容写的蛮简略 不如算法导论那本 可能习题出的比较奥好吧"
+                }
+            ]
+        },
+        {
+            "id": 10043,
+            "isUsedbooks": 0,
+            "name": "Algorithms",
+            "price": 34.8,
+            "freight": 0,
+            "sales_volume": 50,
+            "author": "Sanjoy Dasgupta,‎ Christos Papadimitriou,‎ Umesh Vazirani,‎ 王沛 (译者),‎ 唐扬斌 (译者),‎ 刘齐军 (译者)",
+            "seller": 3,
+            "tags": [0],
+            "url": "https://www.amazon.cn/dp/B001CZJEO0/",
+            "picture": "https://images-cn.ssl-images-amazon.com/images/I/51Fp4vXuBkL._SX410_BO1,204,203,200_.jpg",
+            "detail": {
+                "publisher": "清华大学出版社",
+                "pub_date": "2008-07-01",
+                "pages": 345,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "作为一本介绍算法技术和思想的书籍，本书不仅是面各信息学科大学生的优秀教材（或参考书），更是将任何具有初等数学基础的人引入算法应用与研究殿堂的一块引路石。本书循序渐进、深入浅出地展示了算法研究与应用领域中，从模型分析、算法构造到复杂性分析和算法优化的方方面面。涉及内容从古老的算术算法、排序算法、简单算法、线性规划、动态规划、随机算法以及NP复杂理论，甚至是尚未完全显现全貌的量子计算，覆盖了经典、现代和未来算法发展的众多代表性成果。　　《国外经典教材·计算机科学与技术：算法概论》选材新颖，内容丰富，适用于作为计算机学科以及相关学科算法课程的教材和参考书，同时也可作从事算法研究的入门书籍。",
+                "content": "第0章 序言\n 0.1 书籍和算法\n 0.2 从Fibonacci数列开始\n 0.3 大O符号\n 习题"
+            },
+            "scores": {
+                "credit": 4.6,
+                "good": 4.9
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "内容很全面，如果你是个爱动笔算的人，这本书很适合你，算法精辟，但是推倒过程太简明了，笔算了半天才能搞明白，既有基本思想又有具体算法，但是本书更偏重前者，如果要详细了解某个算法，还是看算法导论得了。不论是刚接触算法还是已经有所研究，我认为这本书都值得珍藏。"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "这本书据说评价很高 我们学校指定用书，然后感觉翻译好烂 后悔应该买本英文版的书本内容写的蛮简略 不如算法导论那本 可能习题出的比较奥好吧"
+                }
+            ]
+        },
+        {
+            "id": 10044,
+            "isUsedbooks": 1,
+            "name": "Algorithms",
+            "price": 34.8,
+            "freight": 0,
+            "sales_volume": 50,
+            "author": "Sanjoy Dasgupta,‎ Christos Papadimitriou,‎ Umesh Vazirani,‎ 王沛 (译者),‎ 唐扬斌 (译者),‎ 刘齐军 (译者)",
+            "seller": 3,
+            "tags": [0],
+            "url": "https://www.amazon.cn/dp/B001CZJEO0/",
+            "picture": "https://images-cn.ssl-images-amazon.com/images/I/51Fp4vXuBkL._SX410_BO1,204,203,200_.jpg",
+            "detail": {
+                "publisher": "清华大学出版社",
+                "pub_date": "2008-07-01",
+                "pages": 345,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "作为一本介绍算法技术和思想的书籍，本书不仅是面各信息学科大学生的优秀教材（或参考书），更是将任何具有初等数学基础的人引入算法应用与研究殿堂的一块引路石。本书循序渐进、深入浅出地展示了算法研究与应用领域中，从模型分析、算法构造到复杂性分析和算法优化的方方面面。涉及内容从古老的算术算法、排序算法、简单算法、线性规划、动态规划、随机算法以及NP复杂理论，甚至是尚未完全显现全貌的量子计算，覆盖了经典、现代和未来算法发展的众多代表性成果。　　《国外经典教材·计算机科学与技术：算法概论》选材新颖，内容丰富，适用于作为计算机学科以及相关学科算法课程的教材和参考书，同时也可作从事算法研究的入门书籍。",
+                "content": "第0章 序言\n 0.1 书籍和算法\n 0.2 从Fibonacci数列开始\n 0.3 大O符号\n 习题"
+            },
+            "scores": {
+                "credit": 4.6,
+                "good": 4.9
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "内容很全面，如果你是个爱动笔算的人，这本书很适合你，算法精辟，但是推倒过程太简明了，笔算了半天才能搞明白，既有基本思想又有具体算法，但是本书更偏重前者，如果要详细了解某个算法，还是看算法导论得了。不论是刚接触算法还是已经有所研究，我认为这本书都值得珍藏。"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "这本书据说评价很高 我们学校指定用书，然后感觉翻译好烂 后悔应该买本英文版的书本内容写的蛮简略 不如算法导论那本 可能习题出的比较奥好吧"
+                }
+            ]
+        },
+        {
+            "id": 10045,
+            "isUsedbooks": 0,
+            "name": "Algorithms",
+            "price": 34.8,
+            "freight": 0,
+            "sales_volume": 50,
+            "author": "Sanjoy Dasgupta,‎ Christos Papadimitriou,‎ Umesh Vazirani,‎ 王沛 (译者),‎ 唐扬斌 (译者),‎ 刘齐军 (译者)",
+            "seller": 3,
+            "tags": [0],
+            "url": "https://www.amazon.cn/dp/B001CZJEO0/",
+            "picture": "https://images-cn.ssl-images-amazon.com/images/I/51Fp4vXuBkL._SX410_BO1,204,203,200_.jpg",
+            "detail": {
+                "publisher": "清华大学出版社",
+                "pub_date": "2008-07-01",
+                "pages": 345,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "作为一本介绍算法技术和思想的书籍，本书不仅是面各信息学科大学生的优秀教材（或参考书），更是将任何具有初等数学基础的人引入算法应用与研究殿堂的一块引路石。本书循序渐进、深入浅出地展示了算法研究与应用领域中，从模型分析、算法构造到复杂性分析和算法优化的方方面面。涉及内容从古老的算术算法、排序算法、简单算法、线性规划、动态规划、随机算法以及NP复杂理论，甚至是尚未完全显现全貌的量子计算，覆盖了经典、现代和未来算法发展的众多代表性成果。　　《国外经典教材·计算机科学与技术：算法概论》选材新颖，内容丰富，适用于作为计算机学科以及相关学科算法课程的教材和参考书，同时也可作从事算法研究的入门书籍。",
+                "content": "第0章 序言\n 0.1 书籍和算法\n 0.2 从Fibonacci数列开始\n 0.3 大O符号\n 习题"
+            },
+            "scores": {
+                "credit": 4.6,
+                "good": 4.9
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "内容很全面，如果你是个爱动笔算的人，这本书很适合你，算法精辟，但是推倒过程太简明了，笔算了半天才能搞明白，既有基本思想又有具体算法，但是本书更偏重前者，如果要详细了解某个算法，还是看算法导论得了。不论是刚接触算法还是已经有所研究，我认为这本书都值得珍藏。"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "这本书据说评价很高 我们学校指定用书，然后感觉翻译好烂 后悔应该买本英文版的书本内容写的蛮简略 不如算法导论那本 可能习题出的比较奥好吧"
+                }
+            ]
+        },
+        {
+            "id": 10046,
+            "isUsedbooks": 0,
+            "name": "Algorithms",
+            "price": 34.8,
+            "freight": 0,
+            "sales_volume": 50,
+            "author": "Sanjoy Dasgupta,‎ Christos Papadimitriou,‎ Umesh Vazirani,‎ 王沛 (译者),‎ 唐扬斌 (译者),‎ 刘齐军 (译者)",
+            "seller": 3,
+            "tags": [0],
+            "url": "https://www.amazon.cn/dp/B001CZJEO0/",
+            "picture": "https://images-cn.ssl-images-amazon.com/images/I/51Fp4vXuBkL._SX410_BO1,204,203,200_.jpg",
+            "detail": {
+                "publisher": "清华大学出版社",
+                "pub_date": "2008-07-01",
+                "pages": 345,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "作为一本介绍算法技术和思想的书籍，本书不仅是面各信息学科大学生的优秀教材（或参考书），更是将任何具有初等数学基础的人引入算法应用与研究殿堂的一块引路石。本书循序渐进、深入浅出地展示了算法研究与应用领域中，从模型分析、算法构造到复杂性分析和算法优化的方方面面。涉及内容从古老的算术算法、排序算法、简单算法、线性规划、动态规划、随机算法以及NP复杂理论，甚至是尚未完全显现全貌的量子计算，覆盖了经典、现代和未来算法发展的众多代表性成果。　　《国外经典教材·计算机科学与技术：算法概论》选材新颖，内容丰富，适用于作为计算机学科以及相关学科算法课程的教材和参考书，同时也可作从事算法研究的入门书籍。",
+                "content": "第0章 序言\n 0.1 书籍和算法\n 0.2 从Fibonacci数列开始\n 0.3 大O符号\n 习题"
+            },
+            "scores": {
+                "credit": 4.6,
+                "good": 4.9
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "内容很全面，如果你是个爱动笔算的人，这本书很适合你，算法精辟，但是推倒过程太简明了，笔算了半天才能搞明白，既有基本思想又有具体算法，但是本书更偏重前者，如果要详细了解某个算法，还是看算法导论得了。不论是刚接触算法还是已经有所研究，我认为这本书都值得珍藏。"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "这本书据说评价很高 我们学校指定用书，然后感觉翻译好烂 后悔应该买本英文版的书本内容写的蛮简略 不如算法导论那本 可能习题出的比较奥好吧"
+                }
+            ]
+        },
+        {
+            "id": 10047,
+            "isUsedbooks": 0,
+            "name": "Algorithms",
+            "price": 34.8,
+            "freight": 0,
+            "sales_volume": 50,
+            "author": "Sanjoy Dasgupta,‎ Christos Papadimitriou,‎ Umesh Vazirani,‎ 王沛 (译者),‎ 唐扬斌 (译者),‎ 刘齐军 (译者)",
+            "seller": 3,
+            "tags": [0],
+            "url": "https://www.amazon.cn/dp/B001CZJEO0/",
+            "picture": "https://images-cn.ssl-images-amazon.com/images/I/51Fp4vXuBkL._SX410_BO1,204,203,200_.jpg",
+            "detail": {
+                "publisher": "清华大学出版社",
+                "pub_date": "2008-07-01",
+                "pages": 345,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "作为一本介绍算法技术和思想的书籍，本书不仅是面各信息学科大学生的优秀教材（或参考书），更是将任何具有初等数学基础的人引入算法应用与研究殿堂的一块引路石。本书循序渐进、深入浅出地展示了算法研究与应用领域中，从模型分析、算法构造到复杂性分析和算法优化的方方面面。涉及内容从古老的算术算法、排序算法、简单算法、线性规划、动态规划、随机算法以及NP复杂理论，甚至是尚未完全显现全貌的量子计算，覆盖了经典、现代和未来算法发展的众多代表性成果。　　《国外经典教材·计算机科学与技术：算法概论》选材新颖，内容丰富，适用于作为计算机学科以及相关学科算法课程的教材和参考书，同时也可作从事算法研究的入门书籍。",
+                "content": "第0章 序言\n 0.1 书籍和算法\n 0.2 从Fibonacci数列开始\n 0.3 大O符号\n 习题"
+            },
+            "scores": {
+                "credit": 4.6,
+                "good": 4.9
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "内容很全面，如果你是个爱动笔算的人，这本书很适合你，算法精辟，但是推倒过程太简明了，笔算了半天才能搞明白，既有基本思想又有具体算法，但是本书更偏重前者，如果要详细了解某个算法，还是看算法导论得了。不论是刚接触算法还是已经有所研究，我认为这本书都值得珍藏。"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "这本书据说评价很高 我们学校指定用书，然后感觉翻译好烂 后悔应该买本英文版的书本内容写的蛮简略 不如算法导论那本 可能习题出的比较奥好吧"
+                }
+            ]
+        },
+        {
+            "id": 10048,
+            "isUsedbooks": 0,
+            "name": "Algorithms",
+            "price": 34.8,
+            "freight": 0,
+            "sales_volume": 50,
+            "author": "Sanjoy Dasgupta,‎ Christos Papadimitriou,‎ Umesh Vazirani,‎ 王沛 (译者),‎ 唐扬斌 (译者),‎ 刘齐军 (译者)",
+            "seller": 3,
+            "tags": [0],
+            "url": "https://www.amazon.cn/dp/B001CZJEO0/",
+            "picture": "https://images-cn.ssl-images-amazon.com/images/I/51Fp4vXuBkL._SX410_BO1,204,203,200_.jpg",
+            "detail": {
+                "publisher": "清华大学出版社",
+                "pub_date": "2008-07-01",
+                "pages": 345,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "作为一本介绍算法技术和思想的书籍，本书不仅是面各信息学科大学生的优秀教材（或参考书），更是将任何具有初等数学基础的人引入算法应用与研究殿堂的一块引路石。本书循序渐进、深入浅出地展示了算法研究与应用领域中，从模型分析、算法构造到复杂性分析和算法优化的方方面面。涉及内容从古老的算术算法、排序算法、简单算法、线性规划、动态规划、随机算法以及NP复杂理论，甚至是尚未完全显现全貌的量子计算，覆盖了经典、现代和未来算法发展的众多代表性成果。　　《国外经典教材·计算机科学与技术：算法概论》选材新颖，内容丰富，适用于作为计算机学科以及相关学科算法课程的教材和参考书，同时也可作从事算法研究的入门书籍。",
+                "content": "第0章 序言\n 0.1 书籍和算法\n 0.2 从Fibonacci数列开始\n 0.3 大O符号\n 习题"
+            },
+            "scores": {
+                "credit": 4.6,
+                "good": 4.9
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "内容很全面，如果你是个爱动笔算的人，这本书很适合你，算法精辟，但是推倒过程太简明了，笔算了半天才能搞明白，既有基本思想又有具体算法，但是本书更偏重前者，如果要详细了解某个算法，还是看算法导论得了。不论是刚接触算法还是已经有所研究，我认为这本书都值得珍藏。"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "这本书据说评价很高 我们学校指定用书，然后感觉翻译好烂 后悔应该买本英文版的书本内容写的蛮简略 不如算法导论那本 可能习题出的比较奥好吧"
+                }
+            ]
+        }, {
+            "id": 10049,
+            "isUsedbooks": 1,
+            "name": "Algorithms",
+            "price": 34.8,
+            "freight": 0,
+            "sales_volume": 50,
+            "author": "Sanjoy Dasgupta,‎ Christos Papadimitriou,‎ Umesh Vazirani,‎ 王沛 (译者),‎ 唐扬斌 (译者),‎ 刘齐军 (译者)",
+            "seller": 3,
+            "tags": [0],
+            "url": "https://www.amazon.cn/dp/B001CZJEO0/",
+            "picture": "https://images-cn.ssl-images-amazon.com/images/I/51Fp4vXuBkL._SX410_BO1,204,203,200_.jpg",
+            "detail": {
+                "publisher": "清华大学出版社",
+                "pub_date": "2008-07-01",
+                "pages": 345,
+                "language": "中文"
+            },
+            "information": {
+                "introduction": "作为一本介绍算法技术和思想的书籍，本书不仅是面各信息学科大学生的优秀教材（或参考书），更是将任何具有初等数学基础的人引入算法应用与研究殿堂的一块引路石。本书循序渐进、深入浅出地展示了算法研究与应用领域中，从模型分析、算法构造到复杂性分析和算法优化的方方面面。涉及内容从古老的算术算法、排序算法、简单算法、线性规划、动态规划、随机算法以及NP复杂理论，甚至是尚未完全显现全貌的量子计算，覆盖了经典、现代和未来算法发展的众多代表性成果。　　《国外经典教材·计算机科学与技术：算法概论》选材新颖，内容丰富，适用于作为计算机学科以及相关学科算法课程的教材和参考书，同时也可作从事算法研究的入门书籍。",
+                "content": "第0章 序言\n 0.1 书籍和算法\n 0.2 从Fibonacci数列开始\n 0.3 大O符号\n 习题"
+            },
+            "scores": {
+                "credit": 4.6,
+                "good": 4.9
+            },
+            "comments": [{
+                    "user": "匿名用户",
+                    "comment": "内容很全面，如果你是个爱动笔算的人，这本书很适合你，算法精辟，但是推倒过程太简明了，笔算了半天才能搞明白，既有基本思想又有具体算法，但是本书更偏重前者，如果要详细了解某个算法，还是看算法导论得了。不论是刚接触算法还是已经有所研究，我认为这本书都值得珍藏。"
+                },
+                {
+                    "user": "匿名用户",
+                    "comment": "这本书据说评价很高 我们学校指定用书，然后感觉翻译好烂 后悔应该买本英文版的书本内容写的蛮简略 不如算法导论那本 可能习题出的比较奥好吧"
                 }
             ]
         }
